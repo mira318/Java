@@ -1,0 +1,14 @@
+day of week:6, is from Moscow:0, number of flights: 976
+day of week:6, is from Moscow:1, number of flights: 992
+day of week:7, is from Moscow:1, number of flights: 1048
+day of week:7, is from Moscow:0, number of flights: 1072
+day of week:4, is from Moscow:0, number of flights: 1116
+day of week:4, is from Moscow:1, number of flights: 1116
+day of week:2, is from Moscow:0, number of flights: 1134
+day of week:2, is from Moscow:1, number of flights: 1143
+day of week:1, is from Moscow:0, number of flights: 1179
+day of week:5, is from Moscow:1, number of flights: 1197
+day of week:1, is from Moscow:1, number of flights: 1206
+day of week:3, is from Moscow:1, number of flights: 1215
+day of week:5, is from Moscow:0, number of flights: 1215
+day of week:3, is from Moscow:0, number of flights: 1224

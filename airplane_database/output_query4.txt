@@ -1,0 +1,3 @@
+month:7, number of flights cancelled:4
+month:8, number of flights cancelled:7
+month:9, number of flights cancelled:403

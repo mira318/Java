@@ -1,0 +1,16 @@
+city:"\"\"en\"\": \"\"Moscow\"\", \"\"ru\"\": \"\"Москва\"\"" number of cancelled flights:77
+city:"\"\"en\"\": \"\"St. Petersburg\"\", \"\"ru\"\": \"\"Санкт-Петербург\"\"" number of cancelled flights:15
+city:"\"\"en\"\": \"\"Krasnoyarsk\"\", \"\"ru\"\": \"\"Красноярск\"\"" number of cancelled flights:10
+city:"\"\"en\"\": \"\"Novosibirsk\"\", \"\"ru\"\": \"\"Новосибирск\"\"" number of cancelled flights:10
+city:"\"\"en\"\": \"\"Kazan\"\", \"\"ru\"\": \"\"Казань\"\"" number of cancelled flights:9
+city:"\"\"en\"\": \"\"Arkhangelsk\"\", \"\"ru\"\": \"\"Архангельск\"\"" number of cancelled flights:8
+city:"\"\"en\"\": \"\"Yekaterinburg\"\", \"\"ru\"\": \"\"Екатеринбург\"\"" number of cancelled flights:8
+city:"\"\"en\"\": \"\"Khanty-Mansiysk\"\", \"\"ru\"\": \"\"Ханты-Мансийск\"\"" number of cancelled flights:7
+city:"\"\"en\"\": \"\"Novy Urengoy\"\", \"\"ru\"\": \"\"Новый Уренгой\"\"" number of cancelled flights:7
+city:"\"\"en\"\": \"\"Chelyabinsk\"\", \"\"ru\"\": \"\"Челябинск\"\"" number of cancelled flights:6
+city:"\"\"en\"\": \"\"Mirnyj\"\", \"\"ru\"\": \"\"Мирный\"\"" number of cancelled flights:6
+city:"\"\"en\"\": \"\"Petrozavodsk\"\", \"\"ru\"\": \"\"Петрозаводск\"\"" number of cancelled flights:6
+city:"\"\"en\"\": \"\"Rostov\"\", \"\"ru\"\": \"\"Ростов-на-Дону\"\"" number of cancelled flights:6
+city:"\"\"en\"\": \"\"Sochi\"\", \"\"ru\"\": \"\"Сочи\"\"" number of cancelled flights:6
+city:"\"\"en\"\": \"\"Tomsk\"\", \"\"ru\"\": \"\"Томск\"\"" number of cancelled flights:6
+city:"\"\"en\"\": \"\"Ulyanovsk\"\", \"\"ru\"\": \"\"Ульяновск\"\"" number of cancelled flights:6

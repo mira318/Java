@@ -1,0 +1,2 @@
+city:"\"\"en\"\": \"\"Ulyanovsk\"\", \"\"ru\"\": \"\"Ульяновск\"\"" airports:[ULV, ULY]
+city:"\"\"en\"\": \"\"Moscow\"\", \"\"ru\"\": \"\"Москва\"\"" airports:[DME, SVO, VKO]
